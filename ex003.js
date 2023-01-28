@@ -3,7 +3,8 @@
     Formula do IMC:
     peso / (altura * altura)
 
-    elabore um algoritmo que dado o peso e a altura de um adulto mostre sua condição de acordo com a tabela abaixo.
+    elabore um algoritmo que dado o peso e a altura de um
+    adulto mostre sua condição de acordo com a tabela abaixo.
 
     - abaixo de 18.5 = abaixo do peso;
     - entre 18.5 ate 25 = peso normal;
