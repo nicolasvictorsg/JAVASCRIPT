@@ -8,9 +8,9 @@
     imprima no console o valor que sera gasto para realiza a viagem
 */
 
-const precoCombustivel = 5.79;
-const kmPorLitro = 10.4;
-const distanciaEmKm = 434.2;
+const precoCombustivel = 4.98;
+const kmPorLitro = 10.3;
+const distanciaEmKm = 434.9;
 
 const litrosConsumido = distanciaEmKm / kmPorLitro;
 const valorGasto = litrosConsumido * precoCombustivel;
